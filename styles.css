@@ -111,6 +111,7 @@ h1 {
 
 section {
   padding-top: 32px;
+  padding-bottom: 30px;
 }
 
 section + section {
